@@ -6,7 +6,7 @@ CONFIG   -= qt
 
 TEMPLATE = lib
 
-TARGET = myapp
+TARGET = ../myapp
 
 SOURCES += myclass.cpp
 HEADERS += myclass.h
